@@ -1,0 +1,2 @@
+# autocursor
+Automatic cursor operator
